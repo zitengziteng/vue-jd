@@ -94,7 +94,5 @@ node server.js
 ![](http://i.imgur.com/sIfHd0z.png)
 
 
-### 如果这个项目对你有帮助，打赏点给作者买杯咖啡(*^__^*) 嘻嘻……
 
-![](http://i.imgur.com/VgKxmhx.png)
 
